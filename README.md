@@ -35,24 +35,7 @@
 - `SSDT-SRAM`
 
 </details> 
-
-<details>  
-<summary> Kexts：</summary>
  
-- `Lilu.kext`
-- `VirtualSMC.kext
-- `WhateverGreen.kext`
-- `AppleALC.kext`
-- `VoodooPS2Controller.kext`
-- `BrightnessKeys.kext`
-- `VoodooI2C.kext`
-- `AirportItlwm.kext`
-- `BlueToolFixup.kext`(if you isntall mac os Monterey use this kext and delete `BluetoothInjector.kext`)
-- `IntelBluetoothFirmware.kext` 
-- `IntelBluetoothInjector.kext` (end wotking on mac os Monterey)
-- `USBInjectAll.kext`
- 
-</details> 
 
 ## What is Working?
 
